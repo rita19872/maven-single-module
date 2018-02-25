@@ -3,5 +3,7 @@ public class Demo1 {
     {
         System.out.println("Hello Demo1");
         System.out.println("Hello World");
+        System.out.println("Hello World from feature/2");
+
     }
 }
