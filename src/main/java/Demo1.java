@@ -5,7 +5,7 @@ public class Demo1 {
         System.out.println("Hello World");
         System.out.println("Hello World from feature/2");
         System.out.println("Hello World from feature/2");
-        System.out.println("Hello RITA");
+        System.out.println("Hello RI");
 
 
     }
